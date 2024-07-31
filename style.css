@@ -38,5 +38,8 @@ article pre {
 		background-color: #121212;
 		color: #e0e0e0;
 	}
+	a:-webkit-any-link {
+    		color: #8080f0;
+	}
 }
 
