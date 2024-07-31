@@ -31,3 +31,9 @@ article pre {
     font-size: 1.1em;
   }
 }
+
+/* style.css */
+@media (prefers-color-scheme: dark) {
+    @import url('dark-mode.css');
+}
+
