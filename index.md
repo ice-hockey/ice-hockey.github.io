@@ -9,7 +9,8 @@ layout: default
 - [ ] &nbsp;Find open ice on the puck and off the puck (sometimes behind you)
 - [ ] &nbsp;Regroup in all three zones (in OZ "activate D")
 - [ ] &nbsp;Be an "option" or "outlet" - support your puck carrier ("D" to "D" support)
-- [ ] &nbsp;Move play to the "weak" side.
+- [ ] &nbsp;Move play to the ["weak"](https://theweaksidestory.wordpress.com/2022/01/23/the-weak-side-story/) side.
+
 
 Starting from here:
 
