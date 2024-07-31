@@ -1,11 +1,10 @@
 #Black Stars Ice Hockey Systems
 
-
-- [ ] Do not skate into pressure
-- [ ] Find open ice on the puck and off the puck (sometimes behind you)
-- [ ] Regroup in all three zones (in OZ "activate D")
-- [ ] Be an "option" or "outlet" - support your puck carrier ("D" to "D" support)
-- [ ] Move play to the "weak" side.
+- [ ] &nbsp;Do not skate into pressure
+- [ ] &nbsp;Find open ice on the puck and off the puck (sometimes behind you)
+- [ ] &nbsp;Regroup in all three zones (in OZ "activate D")
+- [ ] &nbsp;Be an "option" or "outlet" - support your puck carrier ("D" to "D" support)
+- [ ] &nbsp;Move play to the "weak" side.
 
 Ultimately what we want to see:
 
