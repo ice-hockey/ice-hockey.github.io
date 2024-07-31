@@ -1,3 +1,8 @@
+---
+layout: default
+---
+<link rel="stylesheet" href="/style.css">
+
 #Black Stars Ice Hockey Systems
 
 - [ ] &nbsp;Do not skate into pressure
@@ -18,5 +23,3 @@ How we practice:
 
 [YouTube video](https://youtu.be/GZMWYcK2a88)
 
-
-<link rel="stylesheet" href="/style.css">
