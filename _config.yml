@@ -1,7 +1,20 @@
 theme: jekyll-theme-slate
+
 markdown: kramdown
+
 remote_theme: jekyll/minima
+
 plugins:
   - jekyll-remote-theme
+
 minima:
   skin: dark # or auto if you want it to switch with your system settings.
+
+show_excerpts: true
+
+header_pages:
+  - test.md
+  - about.md
+  - practices.md
+  - bragging.md
+  

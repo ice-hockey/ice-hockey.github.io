@@ -3,10 +3,9 @@
 <link rel="stylesheet" href="/style.css">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 ---
-layout: minima
-minima:
-  skin: dark
+layout: base
 ---
+
 
 #Test
 
@@ -22,6 +21,6 @@ minima:
 - test
 - test
 
-[] test
-[] test
-[] test
+- [] test
+- [] test
+- [] test
