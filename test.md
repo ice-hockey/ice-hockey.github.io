@@ -19,9 +19,9 @@
 - test
 - test
 
-- [ ] test
-- [ ] test
-- [ ] test
+- [ ]  test
+- [ ]  test
+- [ ]  test
 
 Here is a simple footnote[^1].
 
