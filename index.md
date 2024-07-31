@@ -17,3 +17,6 @@ How we practice:
 ![Practice Center Ice Regroup Drill](https://github.com/user-attachments/assets/b8e1d5f2-ae65-4656-8046-1ecd12b7bbda)
 
 [YouTube video](https://youtu.be/GZMWYcK2a88)
+
+
+<link rel="stylesheet" href="/style.css">
