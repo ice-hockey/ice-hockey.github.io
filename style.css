@@ -34,12 +34,12 @@ article pre {
 
 /* style.css */
 @media (prefers-color-scheme: dark) {
-	body {
-		background-color: #121212;
-		color: #e0e0e0;
-	}
-	a:-webkit-any-link {
-    		color: #8080f0;
-	}
+  body {
+    background-color: #121212;
+    color: #e0e0e0;
+  }
+  a:-webkit-any-link {
+    color: #4040ff;
+  }
 }
 
