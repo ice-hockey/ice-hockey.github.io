@@ -1,3 +1,8 @@
+---
+layout: default
+---
+<link rel="stylesheet" href="/style.css">
+
 # Who Then Stole the Beauty of the Game (AI generated)
 
 ![1](https://github.com/user-attachments/assets/731829b4-8ad9-4a7e-a3dd-db473bd9ffc6)
