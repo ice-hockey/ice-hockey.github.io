@@ -3,9 +3,7 @@ layout: default
 ---
 <link rel="stylesheet" href="/style.css">
 
-![black-stars](https://github.com/user-attachments/assets/a0a1b503-7293-4040-94b2-f1fab3a1d379){: width="2em" height="auto" } 
-
-# Welcome to Black Stars Ice Hockey 
+# Welcome to Black Stars ![black-stars](https://github.com/user-attachments/assets/a0a1b503-7293-4040-94b2-f1fab3a1d379){: width="32px" height="auto" } Ice Hockey 
 
 ## Our Values
 
