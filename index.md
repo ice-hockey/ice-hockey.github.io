@@ -12,11 +12,12 @@ layout: default
 - Move play to the ["weak"](https://theweaksidestory.wordpress.com/2022/01/23/the-weak-side-story/) side.
 
 
-How to get from here:
+How to get from here[^1].
+:
 
 ![first-steps](https://github.com/user-attachments/assets/e9728cd9-4861-4622-b5aa-d0b053ae36a0){: width="458px" height="auto" }
 
-To there:
+to there:
 
 ![center-ice-regroup](https://github.com/user-attachments/assets/9faa6bf5-35a3-4ba0-a658-482aaf9403d7){: width="640px" height="auto" }
 
@@ -28,3 +29,4 @@ Full ice full range of motion practice:
 
 [YouTube video](https://youtu.be/GZMWYcK2a88)
 
+[^1]: [Izzy Gershtein](https://arcadiaknights.com/sports/womens-ice-hockey/roster/izzy-gershtein/6717).
