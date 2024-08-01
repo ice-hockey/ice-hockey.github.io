@@ -36,8 +36,10 @@ to there:
 - Regroup in all three zones (in OZ "activate D").
 - Be an "option"/"outlet" for the puck-carrier ("D" to "D" support).
 - Support puck-carrier everywhere especially on break-in.
-- OZ play from behind opposing net. 
+- OZ we attack from the rush with smart passing/positioning. 
+- When OZ play goes deep we drive it behind opposing net. 
 - Get open on high slot.
+- OZ no passing from the corners - get to high scoring area first.
 - Net presence for rebounds and redirects.
 - Backcheck hard on the puck.
 - Zone lock or man on man. 1-2-2 or 2-1-2.
