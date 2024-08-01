@@ -1,3 +1,8 @@
+---
+layout: default
+---
+<link rel="stylesheet" href="/style.css">
+
 # The Weak Side Story
 _(not the “West Side Story”)_
 
