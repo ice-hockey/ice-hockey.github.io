@@ -14,17 +14,17 @@ layout: default
 
 How to get from here:
 
-![first-steps](https://github.com/user-attachments/assets/e9728cd9-4861-4622-b5aa-d0b053ae36a0){: width="100%" height="auto" }
+![first-steps](https://github.com/user-attachments/assets/e9728cd9-4861-4622-b5aa-d0b053ae36a0){: width="458px" height="auto" }
 
 To there:
 
-![center-ice-regroup](https://github.com/user-attachments/assets/9faa6bf5-35a3-4ba0-a658-482aaf9403d7){: width="100%" height="auto" }
+![center-ice-regroup](https://github.com/user-attachments/assets/9faa6bf5-35a3-4ba0-a658-482aaf9403d7){: width="640px" height="auto" }
 
 [YouTube video](https://youtu.be/xUTFwUlOSwE)
 
 Full ice full range of motion practice:
 
-![Practice Center Ice Regroup Drill](https://github.com/user-attachments/assets/b8e1d5f2-ae65-4656-8046-1ecd12b7bbda){: width="100%" height="auto" }
+![Practice Center Ice Regroup Drill](https://github.com/user-attachments/assets/b8e1d5f2-ae65-4656-8046-1ecd12b7bbda){: width="640px" height="auto" }
 
 [YouTube video](https://youtu.be/GZMWYcK2a88)
 
