@@ -47,10 +47,9 @@ Regroup:
 
 How to score **together**:
 
-![How to score](https://github.com/user-attachments/assets/b8e1d5f2-ae65-4656-8046-1ecd12b7bbda){: width="640px" height="auto" }
+![**together**](https://github.com/user-attachments/assets/86e58883-bbe9-43c7-b874-de3b2f4caddb){: width="640px" height="auto" }
 
 [YouTube video](https://youtu.be/Kxry7RQze2A)
-
 
 [^1]: ["Weakside" Story](https://theweaksidestory.wordpress.com/2022/01/23/the-weak-side-story/).
 
