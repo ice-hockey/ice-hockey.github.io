@@ -3,17 +3,31 @@ layout: default
 ---
 <link rel="stylesheet" href="/style.css">
 
+# Black Stars Ice Hockey Values
+
+- Hockey is **team** sport.
+- Individual player development is **team** effort.
+- **Team** comes first.
+
 # Black Stars Ice Hockey System
 
+- Be vocal during play. Communicate.
 - Do not skate/pass into pressure.
-- Find open ice on the puck and off the puck (sometimes behind you).
+- Follow and support your pass.
+- Move the play to the **"weak"**[^1] side.
+- Find open ice on and off the puck (often behind you).
+- Breakout in control whenever possible.
+- Diagonal pass thru neutral ice.
 - Regroup in all three zones (in OZ "activate D").
-- Be an "option" or "outlet" - support your puck carrier ("D" to "D" support).
-- Move play to the **"weak"**[^1].
+- Be an "option"/"outlet" for the puck-carrier ("D" to "D" support).
+- Support puck-carrier on break in.
+- OZ play from behind opposing net. 
+- Get open on high slot.
+- Net presence for rebounds and redirects.
+- Backcheck hard on the puck.
+- Zone lock or man on man. 1-2-2 or 2-1-2.
 
-
-How to get from here[^2].
-:
+How to get from here[^2]:
 
 ![first-steps](https://github.com/user-attachments/assets/e9728cd9-4861-4622-b5aa-d0b053ae36a0){: width="458px" height="auto" }
 
