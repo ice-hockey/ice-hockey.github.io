@@ -5,7 +5,7 @@ layout: default
 
 # Black Stars Ice Hockey System
 
-- Do not skate into pressure.
+- Do not skate/pass into pressure.
 - Find open ice on the puck and off the puck (sometimes behind you).
 - Regroup in all three zones (in OZ "activate D").
 - Be an "option" or "outlet" - support your puck carrier ("D" to "D" support).
