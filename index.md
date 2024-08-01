@@ -64,6 +64,12 @@ Black Stars can do it too:
 
 [YouTube video](https://youtu.be/RfcR5b3mmuM){:target="_blank" rel="noopener"}
 
+## Our folklore
+
+"Weakside" Story
+
+["Weakside" Story](https://ice-hockey.github.io/weakside){:target="_blank" rel="noopener"}.
+
 [^1]: ["Weakside" Story](https://theweaksidestory.wordpress.com/2022/01/23/the-weak-side-story/){:target="_blank" rel="noopener"}.
 
 [^2]: [Izzy Gershtein](https://arcadiaknights.com/sports/womens-ice-hockey/roster/izzy-gershtein/6717){:target="_blank" rel="noopener"}.
