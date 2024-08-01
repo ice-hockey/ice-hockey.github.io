@@ -35,7 +35,7 @@ to there:
 - Diagonal pass thru neutral ice.
 - Regroup in all three zones (in OZ "activate D").
 - Be an "option"/"outlet" for the puck-carrier ("D" to "D" support).
-- Support puck-carrier on break in.
+- Support puck-carrier everywhere especially on break-in.
 - OZ play from behind opposing net. 
 - Get open on high slot.
 - Net presence for rebounds and redirects.
