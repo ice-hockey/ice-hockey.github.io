@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<!-- link rel="stylesheet" href="/style.css" -->
+<link rel="stylesheet" href="/style.css">
 
 # Black Stars Ice Hockey System
 
