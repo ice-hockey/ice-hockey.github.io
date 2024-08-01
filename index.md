@@ -37,11 +37,20 @@ to there:
 
 [YouTube video](https://youtu.be/xUTFwUlOSwE)
 
-Full ice full range of motion practice:
+Full ice, full range of motion, practices.
 
-![Practice Center Ice Regroup Drill](https://github.com/user-attachments/assets/b8e1d5f2-ae65-4656-8046-1ecd12b7bbda){: width="640px" height="auto" }
+Regroup:
+
+![Center Ice Regroup Drill](https://github.com/user-attachments/assets/b8e1d5f2-ae65-4656-8046-1ecd12b7bbda){: width="640px" height="auto" }
 
 [YouTube video](https://youtu.be/GZMWYcK2a88)
+
+How to score **together**:
+
+![How to score](https://github.com/user-attachments/assets/b8e1d5f2-ae65-4656-8046-1ecd12b7bbda){: width="640px" height="auto" }
+
+[YouTube video](https://youtu.be/Kxry7RQze2A)
+
 
 [^1]: ["Weakside" Story](https://theweaksidestory.wordpress.com/2022/01/23/the-weak-side-story/).
 
