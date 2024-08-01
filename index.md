@@ -53,7 +53,7 @@ How to score **together**:
 
 Black Stars can do it too:
 
-![Black Stars can do it too:](https://github.com/user-attachments/assets/88bc9a02-6a70-48b7-a2aa-baea7b2e6922)
+![Black Stars can do it too:](https://github.com/user-attachments/assets/88bc9a02-6a70-48b7-a2aa-baea7b2e6922){: width="640px" height="auto" }
 
 [YouTube video](https://youtu.be/RfcR5b3mmuM){:target="_blank" rel="noopener"}
 
