@@ -21,6 +21,9 @@ minima:
 show_excerpts: true
 
 header_pages:
+  - weakside.md
+  - the-game.md
+  - dangle.md
   - test.md
   - about.md
   - practices.md
