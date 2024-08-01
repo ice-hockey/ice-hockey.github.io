@@ -66,9 +66,9 @@ Black Stars can do it too:
 
 ## Our folklore
 
-"Weakside" Story
-
-["Weakside" Story](https://ice-hockey.github.io/weakside){:target="_blank" rel="noopener"}.
+* ["Weakside" Story](https://ice-hockey.github.io/weakside){:target="_blank" rel="noopener"}.
+* [Dangle Dangle Liltle Start](https://ice-hockey.github.io/dangle){:target="_blank" rel="noopener"}.
+* [Who stole the beauty of the game](https://ice-hockey.github.io/the-game){:target="_blank" rel="noopener"}.
 
 [^1]: ["Weakside" Story](https://theweaksidestory.wordpress.com/2022/01/23/the-weak-side-story/){:target="_blank" rel="noopener"}.
 
