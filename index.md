@@ -39,16 +39,17 @@ to there:
 
 Full ice, full range of motion, practices.
 
-
-
 ![How to Regroup at Center Ice:](https://github.com/user-attachments/assets/b8e1d5f2-ae65-4656-8046-1ecd12b7bbda){: width="640px" height="auto" }
 
 [YouTube video](https://youtu.be/GZMWYcK2a88){:target="_blank" rel="noopener"}
 
+How to score **together**:
 
 ![How to score **together**:](https://github.com/user-attachments/assets/86e58883-bbe9-43c7-b874-de3b2f4caddb){: width="640px" height="auto" }
 
 [YouTube video](https://youtu.be/Kxry7RQze2A){:target="_blank" rel="noopener"}
+
+Black Stars can do it too:
 
 ![Black Stars can do it too:](https://github.com/user-attachments/assets/88bc9a02-6a70-48b7-a2aa-baea7b2e6922)
 
