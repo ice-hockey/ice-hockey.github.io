@@ -9,6 +9,16 @@ layout: default
 - Individual player development is **team** effort.
 - **Team** comes first.
 
+# Black Stars "Nursery"
+
+How to get from here[^2]:
+
+![first-steps](https://github.com/user-attachments/assets/e9728cd9-4861-4622-b5aa-d0b053ae36a0){: width="458px" height="auto" }
+
+to there:
+
+![center-ice-regroup](https://github.com/user-attachments/assets/9faa6bf5-35a3-4ba0-a658-482aaf9403d7){: width="640px" height="auto" }
+
 # Black Stars Ice Hockey System
 
 - Be vocal during play. Communicate.
@@ -26,14 +36,6 @@ layout: default
 - Net presence for rebounds and redirects.
 - Backcheck hard on the puck.
 - Zone lock or man on man. 1-2-2 or 2-1-2.
-
-How to get from here[^2]:
-
-![first-steps](https://github.com/user-attachments/assets/e9728cd9-4861-4622-b5aa-d0b053ae36a0){: width="458px" height="auto" }
-
-to there:
-
-![center-ice-regroup](https://github.com/user-attachments/assets/9faa6bf5-35a3-4ba0-a658-482aaf9403d7){: width="640px" height="auto" }
 
 [YouTube video](https://youtu.be/xUTFwUlOSwE){:target="_blank" rel="noopener"}
 
