@@ -3,15 +3,20 @@ layout: default
 ---
 <link rel="stylesheet" href="/style.css">
 
-# Black Stars Ice Hockey Values
+![black-stars](https://github.com/user-attachments/assets/a0a1b503-7293-4040-94b2-f1fab3a1d379){: width="2em" height="auto" } 
+
+# Welcome to Black Stars Ice Hockey 
+
+## Our Values
 
 - Hockey is **team** sport.
 - Individual player development is **team** effort.
 - **Team** comes first.
+- Be humble. There is room for improvement.
 
-# Black Stars "Nursery"
+## Our "Nursery"
 
-How to get from here[^2]:
+We strive from here[^2]:
 
 ![first-steps](https://github.com/user-attachments/assets/e9728cd9-4861-4622-b5aa-d0b053ae36a0){: width="458px" height="auto" }
 
@@ -19,7 +24,9 @@ to there:
 
 ![center-ice-regroup](https://github.com/user-attachments/assets/9faa6bf5-35a3-4ba0-a658-482aaf9403d7){: width="640px" height="auto" }
 
-# Black Stars Ice Hockey System
+[YouTube video](https://youtu.be/xUTFwUlOSwE){:target="_blank" rel="noopener"}
+
+## Our System
 
 - Be vocal during play. Communicate.
 - Do not skate/pass into pressure.
@@ -37,7 +44,7 @@ to there:
 - Backcheck hard on the puck.
 - Zone lock or man on man. 1-2-2 or 2-1-2.
 
-[YouTube video](https://youtu.be/xUTFwUlOSwE){:target="_blank" rel="noopener"}
+## Technicalities
 
 How to Regroup at Center Ice:
 
@@ -50,6 +57,8 @@ How to score **together**:
 ![How to score **together**:](https://github.com/user-attachments/assets/86e58883-bbe9-43c7-b874-de3b2f4caddb){: width="640px" height="auto" }
 
 [YouTube video](https://youtu.be/Kxry7RQze2A){:target="_blank" rel="noopener"}
+
+## Inspirational Bragging Rights
 
 Black Stars can do it too:
 
