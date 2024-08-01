@@ -1,6 +1,6 @@
-# Who Then Stole the Beauty of the Game
+# Who Then Stole the Beauty of the Game (AI generated)
 
-
+![1](https://github.com/user-attachments/assets/731829b4-8ad9-4a7e-a3dd-db473bd9ffc6)
 
 Snoopy, Calvin, Hobbes, and Susie were gearing up for their big hockey match. As they laced their skates and adjusted their helmets, the tension in the locker room was palpable. 
 Calvin looked at Snoopy and asked, "What if the referee makes bad calls?" 
@@ -11,6 +11,7 @@ Finally, the game started. As Calvin had feared, the referee seemed to have it o
 penalty box, frustrated and angry. 
 When the final buzzer rang, they had lost the game. The team returned to the locker room, a mix of frustration and exhaustion in the air. 
 
+![2](https://github.com/user-attachments/assets/f361c2cb-4129-4019-833a-bc4f9bd758b3)
 
 The coach walked in and asked, "So, how did everyone feel about the game?" 
 Calvin vented, "The referee was against us! I spent more time in the penalty box than on the ice!" 
@@ -19,6 +20,7 @@ Hobbes and Susie exchanged glances and then Susie spoke up, "I get it, the refer
 Hobbes added, "The game isn't just about winning or losing, or even fair calls. It's about appreciating the experience, the ice beneath your skates, the thrill of the chase, the elegance of a well-executed play." 
 Calvin and Snoopy looked at each other, then back at Hobbes and Susie. It was as if a cloud had lifted. 
 
+![3](https://github.com/user-attachments/assets/7814bd7b-5593-4338-ba73-2d817c60e305)
 
 The coach nodded, "You may think the referee stole the game from you with bad calls, but who then stole the beauty and joy of playing hockey?" 
 Calvin and Snoopy grinned, "Guess we did that to ourselves." 
