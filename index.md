@@ -37,7 +37,7 @@ to there:
 
 [YouTube video](https://youtu.be/xUTFwUlOSwE){:target="_blank" rel="noopener"}
 
-Full ice, full range of motion, practices.
+How to Regroup at Center Ice:
 
 ![How to Regroup at Center Ice:](https://github.com/user-attachments/assets/b8e1d5f2-ae65-4656-8046-1ecd12b7bbda){: width="640px" height="auto" }
 
