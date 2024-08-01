@@ -9,10 +9,10 @@ layout: default
 - Find open ice on the puck and off the puck (sometimes behind you).
 - Regroup in all three zones (in OZ "activate D").
 - Be an "option" or "outlet" - support your puck carrier ("D" to "D" support).
-- Move play to the ["weak"](https://theweaksidestory.wordpress.com/2022/01/23/the-weak-side-story/) side.
+- Move play to the **"weak"**[^1].
 
 
-How to get from here[^1].
+How to get from here[^2].
 :
 
 ![first-steps](https://github.com/user-attachments/assets/e9728cd9-4861-4622-b5aa-d0b053ae36a0){: width="458px" height="auto" }
@@ -29,4 +29,7 @@ Full ice full range of motion practice:
 
 [YouTube video](https://youtu.be/GZMWYcK2a88)
 
-[^1]: [Izzy Gershtein](https://arcadiaknights.com/sports/womens-ice-hockey/roster/izzy-gershtein/6717).
+[^1]: ["Weakside" Story](https://theweaksidestory.wordpress.com/2022/01/23/the-weak-side-story/).
+
+[^2]: [Izzy Gershtein](https://arcadiaknights.com/sports/womens-ice-hockey/roster/izzy-gershtein/6717).
+
