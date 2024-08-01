@@ -9,6 +9,10 @@ body {
   margin: 0;
 }
 
+.inner {
+  max-width: 90%;
+}
+
 @media (prefers-color-scheme: light) {
   body {
     /*
