@@ -35,7 +35,7 @@ to there:
 
 ![center-ice-regroup](https://github.com/user-attachments/assets/9faa6bf5-35a3-4ba0-a658-482aaf9403d7){: width="640px" height="auto" }
 
-[YouTube video](https://youtu.be/xUTFwUlOSwE)
+[YouTube video](https://youtu.be/xUTFwUlOSwE){:target="_blank" rel="noopener"}
 
 Full ice, full range of motion, practices.
 
@@ -43,15 +43,15 @@ Regroup:
 
 ![Center Ice Regroup Drill](https://github.com/user-attachments/assets/b8e1d5f2-ae65-4656-8046-1ecd12b7bbda){: width="640px" height="auto" }
 
-[YouTube video](https://youtu.be/GZMWYcK2a88)
+[YouTube video](https://youtu.be/GZMWYcK2a88){:target="_blank" rel="noopener"}
 
 How to score **together**:
 
 ![**together**](https://github.com/user-attachments/assets/86e58883-bbe9-43c7-b874-de3b2f4caddb){: width="640px" height="auto" }
 
-[YouTube video](https://youtu.be/Kxry7RQze2A)
+[YouTube video](https://youtu.be/Kxry7RQze2A){:target="_blank" rel="noopener"}
 
-[^1]: ["Weakside" Story](https://theweaksidestory.wordpress.com/2022/01/23/the-weak-side-story/).
+[^1]: ["Weakside" Story](https://theweaksidestory.wordpress.com/2022/01/23/the-weak-side-story/){:target="_blank" rel="noopener"}.
 
-[^2]: [Izzy Gershtein](https://arcadiaknights.com/sports/womens-ice-hockey/roster/izzy-gershtein/6717).
+[^2]: [Izzy Gershtein](https://arcadiaknights.com/sports/womens-ice-hockey/roster/izzy-gershtein/6717){:target="_blank" rel="noopener"}.
 
