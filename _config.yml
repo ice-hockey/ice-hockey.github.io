@@ -8,7 +8,15 @@ plugins:
   - jekyll-remote-theme
 
 minima:
-  skin: dark # or auto if you want it to switch with your system settings.
+  # Minima skin selection.
+  # Available skins are:
+  # classic	           Default, light color scheme.
+  # dark	             Dark variant of the classic skin.
+  # auto	             Adaptive skin based on the default classic and dark skins.
+  # solarized-light	   Light variant of solarized color scheme.
+  # solarized-dark	   Dark variant of solarized color scheme.
+  # solarized	         Adaptive skin for solarized color scheme skins.
+  skin: solarized
 
 show_excerpts: true
 
