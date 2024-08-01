@@ -1,3 +1,8 @@
+---
+layout: default
+---
+<link rel="stylesheet" href="/style.css">
+
 # Dangle dangle little star
 
 Once upon a time there was a pond in winter. And on that pond were skaters, and there was a glorious game. And some grew up playing the game while others moved to the pond and joined later. But everyone agreed it was the best game ever, and gathered to watch it being played.
